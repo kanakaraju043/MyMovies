@@ -30,7 +30,10 @@ class ViewController: UIViewController,UICollectionViewDataSource{
         
         MovieManager.loadMovieDataWithType(type: "popular") { (moviedata) in
            // print(moviedata)
+
             
+            
+
             DispatchQueue.main.async {
                 self.yourArray = moviedata
 

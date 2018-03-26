@@ -26,7 +26,6 @@
 		0321FF641FB1BB1600F6CE1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0321FF671FB1BB1600F6CE1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0321FF691FB1BB1600F6CE1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0321FF701FB1BB7300F6CE1A /* ServerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServerManager.swift; sourceTree = "<group>"; };
 		0321FF721FB1BBD100F6CE1A /* MovieManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieManager.swift; sourceTree = "<group>"; };
 		03C7E4751FB2F428005AE3C8 /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 		03C7E4771FB33A4A005AE3C8 /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
@@ -75,7 +74,6 @@
 				0321FF641FB1BB1600F6CE1A /* Assets.xcassets */,
 				0321FF661FB1BB1600F6CE1A /* LaunchScreen.storyboard */,
 				0321FF691FB1BB1600F6CE1A /* Info.plist */,
-				0321FF701FB1BB7300F6CE1A /* ServerManager.swift */,
 				0321FF721FB1BBD100F6CE1A /* MovieManager.swift */,
 				03C7E4751FB2F428005AE3C8 /* MovieCollectionViewCell.swift */,
 			);
@@ -225,7 +223,6 @@
 				0321FF731FB1BBD100F6CE1A /* MovieManager.swift in Sources */,
 				0321FF601FB1BB1500F6CE1A /* ViewController.swift in Sources */,
 				03C7E4761FB2F428005AE3C8 /* MovieCollectionViewCell.swift in Sources */,
-				0321FF711FB1BB7300F6CE1A /* ServerManager.swift in Sources */,
 				03C7E4781FB33A4A005AE3C8 /* MovieDetailViewController.swift in Sources */,
 				0321FF5E1FB1BB1500F6CE1A /* AppDelegate.swift in Sources */,
 			);
