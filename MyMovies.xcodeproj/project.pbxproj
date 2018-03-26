@@ -12,7 +12,6 @@
 		0321FF631FB1BB1600F6CE1A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0321FF611FB1BB1600F6CE1A /* Main.storyboard */; };
 		0321FF651FB1BB1600F6CE1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0321FF641FB1BB1600F6CE1A /* Assets.xcassets */; };
 		0321FF681FB1BB1600F6CE1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0321FF661FB1BB1600F6CE1A /* LaunchScreen.storyboard */; };
-		0321FF711FB1BB7300F6CE1A /* ServerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0321FF701FB1BB7300F6CE1A /* ServerManager.swift */; };
 		0321FF731FB1BBD100F6CE1A /* MovieManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0321FF721FB1BBD100F6CE1A /* MovieManager.swift */; };
 		03C7E4761FB2F428005AE3C8 /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C7E4751FB2F428005AE3C8 /* MovieCollectionViewCell.swift */; };
 		03C7E4781FB33A4A005AE3C8 /* MovieDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03C7E4771FB33A4A005AE3C8 /* MovieDetailViewController.swift */; };
